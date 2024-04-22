@@ -1,0 +1,1 @@
+Ce projet avait pour objectif d’ameliorer la gestion de données en rapprochant les données ERP et web en analysant les prix des produits et en calculant le chiffre d’affaire en langage Python. Outils utilisés : Excel, Jupyter Notebook et PowerPoint
